@@ -114,3 +114,6 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+CRIMEN RESUELTO
+Fue The Baker con el Brass Bell en el gymnasium.
