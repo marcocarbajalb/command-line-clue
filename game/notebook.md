@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Artist
 - [ ] The Baker
-- [ ] The Banker
+- [X] The Banker
 
 ## Weapons
 - [ ] Silver Watch
