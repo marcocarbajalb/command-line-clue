@@ -115,5 +115,6 @@ cat clue.txt   # Read the next clue
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
 
-CRIMEN RESUELTO
+## CRIMEN RESUELTO
 Fue The Baker con el Brass Bell en el gymnasium.
+- Marco Carbajal (23025)
